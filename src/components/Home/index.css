@@ -1,0 +1,35 @@
+.home-route-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+.image {
+  height: 300px;
+}
+.main-heading {
+  color: #334155;
+  font-size: 38px;
+  font-family: 'Roboto';
+}
+.home-para {
+  color: #64748b;
+  margin-top: 0;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+.button-register {
+  background-color: #2563eb;
+  border: none;
+  outline: none;
+  height: 35px;
+  width: 80px;
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  border-radius: 3px;
+}
+.button-container {
+  margin-bottom: 40px;
+}

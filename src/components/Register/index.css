@@ -1,0 +1,31 @@
+.register-container {
+  padding: 30px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.form-heading {
+  color: #334155;
+  font-size: 35px;
+  font-family: 'Roboto';
+}
+.input-container {
+  margin-bottom: 20px;
+}
+.label {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+}
+.input {
+  height: 35px;
+  width: 300px;
+  padding: 10px;
+  outline: none;
+}
+.option {
+  height: 40px;
+  width: 300px;
+  padding: 5px;
+  outline: none;
+}
